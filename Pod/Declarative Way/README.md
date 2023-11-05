@@ -1,7 +1,7 @@
 # Practical Questions on Pod Creation
 
 ## Introduction
-This readme file provides step-by-step instructions for the practical questions on pod creation covered in the YouTube video [https://youtu.be/1ljs7rUGsJM]. Each question focuses on a specific task related to creating and managing pods using Kubernetes. Follow the instructions below to perform each task and gain hands-on experience with pod creation.
+This readme file provides step-by-step instructions for the practical questions on pod creation Each question focuses on a specific task related to creating and managing pods using Kubernetes. Follow the instructions below to perform each task and gain hands-on experience with pod creation.
 
 ### Question 1: Create a Pod with Image Nginx using Declarative Way
 Create a YAML file named pod.yaml with the following content:

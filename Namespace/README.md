@@ -3,7 +3,6 @@
 ## Introduction
 This README file provides a step-by-step guide to performing practical tasks related to Namespace creation in Kubernetes. The questions covered in this guide will help you understand and practice creating namespaces and working with pods within those namespaces.
 
-Link to YouTube Video: https://youtu.be/dBjWCOwcTvM
 
 ### Question 1: Create a namespace named "my-first-ns".
 ```

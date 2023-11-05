@@ -1,9 +1,8 @@
 # Kubernetes Service Creation
 
 ## Introduction
-This README provides step-by-step instructions on how to create and manage Kubernetes services. The instructions cover four specific questions related to creating and deleting services for pods. This guide accompanies a YouTube video tutorial demonstrating the practical implementation of these questions.
+This README provides step-by-step instructions on how to create and manage Kubernetes services. The instructions cover four specific questions related to creating and deleting services for pods. .
 
-Video Tutorial: [Link to YouTube Video](https://youtu.be/YZ-jXnNw0sk)
 
 ### Question 1: Create two pods named "blue" and "red" using nginx image. The "blue" pod should be exposed on port 80.
 

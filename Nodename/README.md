@@ -1,9 +1,8 @@
 # Kubernetes Manual Scheduling using nodename Property
 
 ## Introduction
-This readme file provides instructions on manually scheduling Kubernetes pods using the nodename property.  Please refer to the following YouTube video for a practical demonstration of the concepts discussed in this readme: 
+This readme file provides instructions on manually scheduling Kubernetes pods using the nodename property. 
 
-YouTube Video: [Manual Scheduling in Kubernetes](https://youtu.be/ARHfMpiBv-4)
 
 ### Question 1: Create a pod named mypod and manually schedule it onto the master node. 
 - Create a file named mypod.yaml.

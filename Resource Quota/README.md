@@ -3,7 +3,6 @@
 ## Introduction
 This README provides instructions on how to create, verify, view, and delete Resource Quotas in Kubernetes using YAML files. It also explains how to check the resource utilization of a specific namespace. The steps mentioned below can be followed to perform these operations.
 
-Video Link: https://youtu.be/nia8nreVmBg
 
 ## Creating a Resource Quota
 Create a YAML file, for example, resource-quota.yaml, with the desired specifications for the Resource Quota.

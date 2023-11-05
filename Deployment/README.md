@@ -1,7 +1,6 @@
 # Deployment Creation
 This README file provides step-by-step instructions to perform various deployment operations using Kubernetes. The following practical questions are covered in this guide.
 
-Video Link: https://youtu.be/-uO400iEuKo
 
 ### Question 1: Create a deployment named my-deploy with the image nginx.
 To create a deployment named "my-deploy" with the nginx image, use the following command:

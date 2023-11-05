@@ -1,7 +1,7 @@
 # Pod Creation using Imperative Way
 
 ## Introduction
-This readme file provides step-by-step instructions for the practical questions on pod creation using the imperative way. These questions were covered in the YouTube video [https://youtu.be/ODJwFsdK2oU]. Each question focuses on a specific task related to creating pods using imperative commands in Kubernetes. Follow the instructions below to perform each task and gain hands-on experience with pod creation.
+This readme file provides step-by-step instructions for the practical questions on pod creation using the imperative way. Each question focuses on a specific task related to creating pods using imperative commands in Kubernetes. Follow the instructions below to perform each task and gain hands-on experience with pod creation.
 
 ### Question 1: Create a pod with name "mypod" using nginx:alpine image.
 To create a pod with the name "mypod" and using the nginx:alpine image, use the following command:

@@ -3,7 +3,6 @@
 ## Introduction
 This README provides a step-by-step guide to create and manage a Replicaset in Kubernetes. It covers the creation of a Replicaset using the declarative approach, scaling the Replicaset imperatively, deleting a pod from the Replicaset, and finally, deleting the entire Replicaset. 
 
-The instructions mentioned in this readme are based on a practical demonstration given in the following YouTube video: [Link to Video](https://youtu.be/ODJwFsdK2oU).
 
 ### Question 1: Create a Replicaset with 1 replica
 To create a Replicaset named "myfirstrs" with the Nginx image and 1 replica using the declarative way, follow these steps:
